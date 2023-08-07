@@ -24,7 +24,7 @@
 </table>
 
 
-<p align="center">Welcome to my GitHub profile! Here you will see my work on projects that interest me greatly.</p>
+<p align="center">Welcome to my GitHub profile! Here you will see my work on several different passion projects.</p>
 <br>
 <p align="left">🚀 I love to learn through doing, working on a project increases my knowledge.</p>
 <p align="left">🌱 Growing through every challenge.</p>
