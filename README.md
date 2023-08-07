@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5Hinsut.png" alt="Hishaam Khan">
+  <img src="https://i.imgur.com/lSYhb2o.png" alt="Meiloorun Logo">
 </p>
 <h1 align="center">Hi there, I'm Hishaam Khan 👋</h1>
 <h3 align="center">Computer Science Student and Code Enthusiast</h3>
@@ -10,7 +10,7 @@
       <img alt="Discord" src="https://logo.com/image-cdn/images/kts928pd/production/5b24e49fd89287ff1eb5bbc4cf93cb038c3384ef-512x512.png?w=1080&q=72" height="50">
     </td>
     <td align="center">
-      <img alt="Email" src="https://img.freepik.com/free-icon/email_318-859700.jpg" height="50">
+      <img alt="Email" src="https://img.freepik.com/free-icon/email_318-304876.jpg?w=360" height="50">
     </td>
   </tr>
   <tr>
