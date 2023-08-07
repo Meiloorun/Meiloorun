@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hishaam Khan</h1>
+
+<h3 align="center">I'm a Computer Science Student with a strong passion for Software Engineering.</h3>
+
 
 <!--
 **Meiloorun/Meiloorun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
