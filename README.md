@@ -34,8 +34,8 @@
 <p align="center">Message me if you need help on something!</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meiloorun&layout=compact&hide=html" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Meiloorun&show_icons=true&theme=dracula" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meiloorun&layout=compact&hide=html" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Meiloorun&show_icons=true&theme=dracula" alt="GitHub Stats" height="150">
 </p>
 
 <!--
