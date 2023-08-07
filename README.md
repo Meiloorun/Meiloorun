@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/lSYhb2o.png" alt="Meiloorun Logo">
+  <img src="https://i.imgur.com/lgfCOmX.png" alt="Meiloorun Logo">
 </p>
 <h1 align="center">Hi there, I'm Hishaam Khan 👋</h1>
 <h3 align="center">Computer Science Student and Code Enthusiast</h3>
