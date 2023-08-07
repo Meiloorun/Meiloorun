@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/lgfCOmX.png" alt="Meiloorun Logo">
 </p>
-<h1 align="center">Hi there, I'm Hishaam Khan 👋</h1>
+<h1 align="center">Hi there, I'm Hishaam 👋</h1>
 <h3 align="center">Computer Science Student and Code Enthusiast</h3>
 
 <table align="center">
