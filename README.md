@@ -31,7 +31,7 @@
 <p align="left">💡 Creating interesting things that bring ideas to life.</p>
 <br>
 <br>
-<p align="center">Message me if you need help on something!</p>
+<p align="center">Message me if you need help with something!</p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meiloorun&layout=compact&hide=html" height="150"/>
