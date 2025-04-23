@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/lgfCOmX.png" alt="Meiloorun Logo">
 </p>
-<h1 align="center">Hi there, I'm Hishaam 👋</h1>
-<h3 align="center">Computer Science Student and Code Enthusiast</h3>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -18,7 +15,7 @@
       <a>meiloorun</a>
     </td>
     <td align="center">
-      <a href="mailto:hishaam.k@live.co.uk">hishaam.k@live.co.uk</a>
+      <a href="mailto:gamerofgr8ness@gmail.com">gamerofgr8ness@gmail.com</a>
     </td>
   </tr>
 </table>
