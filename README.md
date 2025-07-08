@@ -20,15 +20,7 @@
   </tr>
 </table>
 
-
-<p align="center">Welcome to my GitHub profile! Here you will see my work on several different passion projects.</p>
-<br>
-<p align="left">🚀 I love to learn through doing, working on a project increases my knowledge.</p>
-<p align="left">🌱 Growing through every challenge.</p>
-<p align="left">💡 Creating interesting things that bring ideas to life.</p>
-<br>
-<br>
-<p align="center">Message me if you need help with something!</p>
+yo
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meiloorun&layout=compact&hide=html" height="150"/>
